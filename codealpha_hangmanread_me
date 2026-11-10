@@ -1,0 +1,8 @@
+Hangman Game
+A word-guessing game where the player must guess a hidden word by entering one letter at a time.
+
+**Features:**
+- Random word selection
+- Limited attempts
+- Letter guessing system
+- Win or lose messages
