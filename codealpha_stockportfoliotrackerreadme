@@ -1,0 +1,18 @@
+Basic Chatbot
+A simple rule-based chatbot that interacts with users through text messages.
+
+**Features:**
+- Greeting responses
+- Answers basic questions
+- Keyword-based responses
+- Exit option
+
+## Technologies Used
+
+- Python 3
+- Random module
+- Dictionaries
+- Functions
+- Loops
+- Conditional statements
+- User input and output
