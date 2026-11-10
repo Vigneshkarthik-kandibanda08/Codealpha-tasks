@@ -1,0 +1,9 @@
+Stock Portfolio Tracker
+A simple Python application used to manage and track stock investments.
+
+**Features:**
+- Add stock details
+- Enter stock quantity and price
+- Calculate individual stock value
+- Display complete portfolio
+- Calculate total portfolio value
